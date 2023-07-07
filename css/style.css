@@ -1,0 +1,46 @@
+/* universal selector */
+*{
+    margin: 0;
+    padding: 0;
+}
+.css-card{
+    width: 300px;
+    padding: 15px;
+    border: 2px solid rgb(240, 195, 195);
+    border-radius: 18px;
+    margin: 20px auto;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.css-card p{
+    text-align: justify;
+}
+
+h4{
+    display: inline;
+    margin: 0 15px;
+    padding: 12px;
+    border: 2px solid red;
+}
+
+span{
+    display: block;
+    width: 200px;
+    margin: 30px;
+    padding: 18px;
+    border: 2px solid pink;
+}
+
+#d-none{
+    display: none;
+}
+#d-hidden{
+    visibility: hidden;
+}
+
+ol li:first-child{
+    text-decoration: underline;
+}
+ol li:last-child{
+    text-decoration: overline;
+}
