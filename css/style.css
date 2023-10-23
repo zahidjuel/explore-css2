@@ -5,10 +5,10 @@
 }
 .css-card{
     width: 300px;
-    padding: 15px;
+    padding: 12px;
     border: 2px solid rgb(240, 195, 195);
     border-radius: 18px;
-    margin: 20px auto;
+    margin: 120px auto;
     box-shadow: 10px 10px 5px #aaaaaa;
 }
 
